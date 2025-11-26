@@ -10,10 +10,10 @@
 
 ## Supported Games & Features
 
-| Game  | Features |
-|-------|----------|
-| **Evade** | AutoFarm, ESP, Emote Changer, AutoJump, Free Revive, 50+ More |
-| **Rivals** | Aimbot, ESP|
+| Game  | Features | Version |
+|-------|----------|---------|
+| **Evade** | AutoFarm, ESP, Emote Changer, AutoJump, Free Revive, 50+ More | V4.3
+| **Rivals** | Aimbot, ESP| V1.3
 
 ---
 
