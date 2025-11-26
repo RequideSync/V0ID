@@ -8,24 +8,12 @@
 
 ---
 
-## Supported Games
-| Game |
-|------|
-| Evade |
-| Rivals |
+## Supported Games & Features
 
----
-
-## Features
-| Rivals / Evade | Description |
-|----------------|-------------|
-| Aimbot | Precision auto-aim assistance |
-| AutoFarm | Automated farming system |
-| ESP | Visual player/object highlights |
-| Emote Changer | Switch emotes freely |
-| AutoJump | Automatic jumping system |
-| Free Revive | Revive without cost |
-| 50+ More | Additional advanced features |
+| Game  | Features |
+|-------|----------|
+| **Evade** | AutoFarm, ESP, Emote Changer, AutoJump, Free Revive, 50+ More |
+| **Rivals** | Aimbot, ESP, AutoFarm, Emote Changer, 50+ More |
 
 ---
 
