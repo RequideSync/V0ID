@@ -13,7 +13,7 @@
 | Game  | Features |
 |-------|----------|
 | **Evade** | AutoFarm, ESP, Emote Changer, AutoJump, Free Revive, 50+ More |
-| **Rivals** | Aimbot, ESP, AutoFarm, Emote Changer, 50+ More |
+| **Rivals** | Aimbot, ESP|
 
 ---
 
